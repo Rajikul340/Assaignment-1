@@ -1,0 +1,47 @@
+body{
+    font-family: 'Inter', sans-serif;
+    text-transform: capitalize;
+  
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#banner-section{
+    background:linear-gradient(transparent, #00000085), url(image/donation1.jpg);
+    background-position:  center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 17%;
+    text-align: center;
+  
+    color: white;
+}
+ 
+.banner-head{
+    max-width: 80%;
+}
+.banner-head  h1{
+    font-size: 40px;
+    
+}
+.banner-head p{
+    margin-top: 10px;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+#btn{
+   color:white;
+   background: orangered; 
+   padding: 10px 15px;
+   margin-top: 10px;
+   text-transform: capitalize;
+   font-size: 18px;
+   border-radius: 10px;
+   border: none;
+}
+#btn:hover{
+    background: rgb(100, 78, 38);
+    
+}
