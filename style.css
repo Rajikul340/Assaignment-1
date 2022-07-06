@@ -65,7 +65,7 @@ section{
 }
 .price-menu{
     display: flex;
-     margin-left: 22%;
+     margin-left: 24%;
      margin-top: 10px;
    
     
@@ -85,4 +85,56 @@ section{
     border: 2px solid tomato;
     color: tomato;
     background: rgb(80, 52, 47);
+}
+
+.input-item{
+ text-align: center;
+ margin-top: 20px;
+ 
+}
+.input-item p{
+   color: rgb(145, 141, 141);
+}
+hr{
+    margin-bottom: 20px;
+    color: #ddd;
+    width: 50%;
+  margin: auto; 
+}
+.plan-card{
+    display: flex;
+    margin: auto;
+}
+.plan-card-singlebox{
+    background: #EDF5F6;
+    width: 350px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+ 
+}
+
+.plan-card-img img{
+    width: 19%;
+    margin: 10px;
+    padding: 10px;
+ 
+
+}
+.plan-card-title h3{
+    margin: 10px ;
+     
+}
+.plan-card-desc p{
+    margin: 10px;
+    word-spacing: 3px;
+    line-height: 25px;
+    margin-bottom: 50px;
+
+}
+#plan-box-bg{
+    background: #FFEEEE;
+}
+#plan-box-bg-1{
+    background: #FFF4D6;
 }
