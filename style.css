@@ -138,3 +138,21 @@ hr{
 #plan-box-bg-1{
     background: #FFF4D6;
 }
+#floods-section{
+    display: flex;
+    padding: 10%;
+}
+.floods-head{
+    width: 50%;
+}
+.floods-head h3{
+    font-size: 30px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+.floods-head p{
+    margin: 10px;
+    word-spacing: 3px;
+    line-height: 25px;
+}
