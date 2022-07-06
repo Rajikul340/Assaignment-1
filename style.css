@@ -169,7 +169,10 @@ hr{
     margin:2% 20%;
     display: flex;
 }
- 
+ .bottom-text{
+    font-family: 'Lily Script One', cursive;
+    margin: 10px;
+ }
  
 input{
     border: none;
